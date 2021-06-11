@@ -1,5 +1,5 @@
-#CG - Computação Gráfica 
-##Matéria cursada em 2020
+# CG - Computação Gráfica 
+## Matéria cursada em 2020
 
 Na materia estudamos funções do WebGL e implementamos funções de:
 
@@ -11,8 +11,8 @@ Na materia estudamos funções do WebGL e implementamos funções de:
 
 ------------------------------
 
-#CG - Computer Graphics
-##Class took in 2020
+# CG - Computer Graphics
+## Class took in 2020
 
 In the class we studied functions of WebGL and implemented functions of:
 
